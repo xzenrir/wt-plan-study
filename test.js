@@ -1,1 +1,1 @@
-console.log("asdasda");
+alert("Hello!");
